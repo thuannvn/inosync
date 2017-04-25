@@ -7,7 +7,7 @@ rexcludes = [
 ]
 
 # rpaths has one-to-one correspondence with wpaths for syncing multiple directories
-rpaths = ["/home/ubuntu/upl/oads"]
+rpaths = ["/home/ubuntu/uploads"]
 
 # remote locations in rsync syntax
 rnodes = [
